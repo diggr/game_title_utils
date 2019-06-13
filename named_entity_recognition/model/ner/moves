@@ -1,0 +1,32 @@
+Å´transitions⁄¢[
+  {
+    "clas":0,
+    "move":1,
+    "label":"VIDEOGAME",
+    "name":"B-VIDEOGAME"
+  },
+  {
+    "clas":1,
+    "move":2,
+    "label":"VIDEOGAME",
+    "name":"I-VIDEOGAME"
+  },
+  {
+    "clas":2,
+    "move":3,
+    "label":"VIDEOGAME",
+    "name":"L-VIDEOGAME"
+  },
+  {
+    "clas":3,
+    "move":4,
+    "label":"VIDEOGAME",
+    "name":"U-VIDEOGAME"
+  },
+  {
+    "clas":4,
+    "move":5,
+    "label":"",
+    "name":"O"
+  }
+]
