@@ -1,2 +1,4 @@
-__pycache__/
-saved_matches/
+__pycache__
+saved_matches
+.pytest_cache
+.ipynb_checkpoints
