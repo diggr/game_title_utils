@@ -1,5 +1,5 @@
 import pytest
-from diggrtoolbox.linking.helpers import *
+from ..helpers import *
 
 
 #remove_tm tests

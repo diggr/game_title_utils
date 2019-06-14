@@ -1,8 +1,8 @@
 import pytest
 import Levenshtein as lev
-from diggrtoolbox.linking import link_by_titles
-from diggrtoolbox.linking.helpers import std
-from diggrtoolbox.linking.config import *
+from ..comp import cmp_titles
+from ..helpers import std
+from ..config import *
 
 #test linking by titles
 @pytest.mark.parametrize(
@@ -44,4 +44,4 @@ from diggrtoolbox.linking.config import *
     ],    
 )
 def test_linking_by_titles(titles1, titles2, output):
-    assert link_by_titles(titles1, titles2) == output
+    assert cmp_titles(titles1, titles2) == output

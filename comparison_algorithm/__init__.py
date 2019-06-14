@@ -1,1 +1,1 @@
-from .link import match_titles
+from .comp import cmp_titles

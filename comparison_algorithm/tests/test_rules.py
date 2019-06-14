@@ -1,6 +1,6 @@
 import pytest
-from diggrtoolbox.linking.rules import *
-from diggrtoolbox.linking.config import *
+from ..rules import *
+from ..config import *
 
 # FIRST LETTER RULE TESTS
 @pytest.mark.parametrize(
