@@ -8,7 +8,7 @@ It consists of 3 subprojects:
 - Named Entity Recognition
 - Title Comparison Algorithm
 
-![game title utils logo](assets/game_title_utisl_header.png?raw=true "game title utils")
+![game title utils logo](assets/game_title_utils_header.png?raw=true "game title utils")
 
 It contains three projects:
 
