@@ -7,7 +7,7 @@ Generate statistics of common video game title features in a list of game titles
 Provide a list of game titles (a list of strings) in Json format as an argument.
 
 ```zsh
-$ python tcs.py ../dataset/game_titles.json 
+$ python tcs.py ../named_entity_recognition/dict/game_titles.json 
 ```
 
 ### Parameters
