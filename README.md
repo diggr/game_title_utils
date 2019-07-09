@@ -2,6 +2,14 @@
 
 This is a collection of tools and experiments for dealing with video game titles.
 
+It consists of 3 subprojects:
+
+- Title Statistics
+- Named Entity Recognition
+- Title Comparison Algorithm
+
+![game title utils logo](assets/game_title_utisl_header.png?raw=true "game title utils")
+
 It contains three projects:
 
 ## Title statistics
@@ -17,8 +25,9 @@ Recognize video game titles in (English) texts, using either a dictionary-based 
 Calculate similarity values for video game titles. The rule-based comparison algorithm is developed for taking game title specific features into account.
 
 ## Copyright
-2019, Universitätsbibliothek Leipzig info@ub.uni-leipzig.de
+2019, Universitätsbibliothek Leipzig <info@ub.uni-leipzig.de>
 
 ## Authors
-F. Rämisch raemisch@ub.uni-leipzig.de
-P. Mühleder muehleder@ub.uni-leipzig.de
+
+- F. Rämisch <raemisch@ub.uni-leipzig.de>
+- P. Mühleder <muehleder@ub.uni-leipzig.de>
